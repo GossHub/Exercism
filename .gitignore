@@ -13,3 +13,4 @@ gigasecond.spec.js
 rna-transcription.spec.js
 space-age.spec.js
 pangram.spec.js
+*.spec.js
